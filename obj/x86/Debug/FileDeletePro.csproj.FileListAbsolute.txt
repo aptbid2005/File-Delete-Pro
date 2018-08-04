@@ -1,0 +1,15 @@
+C:\Source\File Delete Pro\obj\x86\Debug\FileDeletePro.AboutBox.resources
+C:\Source\File Delete Pro\obj\x86\Debug\FileDeletePro.CheckForUpdate.resources
+C:\Source\File Delete Pro\obj\x86\Debug\FileDeletePro.ProgramError.resources
+C:\Source\File Delete Pro\obj\x86\Debug\FileDeletePro.FormMain.resources
+C:\Source\File Delete Pro\obj\x86\Debug\FileDeletePro.Properties.Resources.resources
+C:\Source\File Delete Pro\obj\x86\Debug\FileDeletePro.Registration.resources
+C:\Source\File Delete Pro\obj\x86\Debug\FileDeletePro.Suggestion.resources
+C:\Source\File Delete Pro\obj\x86\Debug\FileDeletePro.csproj.GenerateResource.cache
+C:\Source\File Delete Pro\obj\x86\Debug\FileDeletePro.csproj.CoreCompileInputs.cache
+C:\Source\File Delete Pro\bin\Debug\FileDeletePro.exe.config
+C:\Source\File Delete Pro\bin\Debug\FileDeletePro.exe
+C:\Source\File Delete Pro\bin\Debug\FileDeletePro.pdb
+C:\Source\File Delete Pro\bin\Debug\FileDeletePro.xml
+C:\Source\File Delete Pro\obj\x86\Debug\FileDeletePro.exe
+C:\Source\File Delete Pro\obj\x86\Debug\FileDeletePro.pdb
